@@ -1,0 +1,17 @@
+{
+  "orderID":12345,
+  "shopperName":"Allen Zhao",
+  "shopperEmail":"mr.zhao.x.i@gmail.com",
+  "orderComments":[
+    {
+      "productID":"1",
+      "productName":"macbook",
+      "quantity":1
+    },
+    {
+      "productID":"2",
+      "quantity":15
+    }
+  ],
+  "dispatched":true
+}
